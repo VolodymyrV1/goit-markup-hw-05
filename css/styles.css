@@ -577,7 +577,7 @@ body {
   color: #fff;
   background: #4d5ae5;
   margin: 0 auto;
-  min-width: 169px;
+  min-width: 165px;
   height: 40px;
   border: none;
   border-radius: 4px;
@@ -594,4 +594,8 @@ body {
 .btn-footer-send:focus {
   background-color: #404bbf;
 
+}
+
+.icon-send {
+  margin-left: 16px;
 }
