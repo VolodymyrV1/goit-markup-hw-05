@@ -539,6 +539,7 @@ body {
   display: flex;
   gap: 24px;
 
+
 }
 
 
@@ -592,5 +593,5 @@ body {
 .btn-footer-send:hover,
 .btn-footer-send:focus {
   background-color: #404bbf;
-  
+
 }
