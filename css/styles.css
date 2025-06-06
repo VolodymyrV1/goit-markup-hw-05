@@ -751,22 +751,26 @@ body {
   color: rgba(46, 47, 66, 0.4);
 }
 
+.checkbox-wrap {
+  margin-bottom: 24px;
+}
+
 .modal-check {
 
 }
 
 .visually-hidden {
   position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
   
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
 
 .check-text {
@@ -775,7 +779,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  margin-bottom: 24px;
+  /* margin-bottom: 24px; */
   display: inline-block;
   /* display: flex;
   align-items: center; */
